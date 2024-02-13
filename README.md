@@ -1,13 +1,11 @@
 # scraper engine
-
-A brief description of what this project does and who it's for
-
+In this project we are fetch a comment, ratings, custom name and date, from flipkart web page 
 
 ## Acknowledgements
 
  - scraping product review 
  - fatch product rating
- - scraping by using butifull shop
+ - scraping by using beautiful shop
 
 
 ## setup flask API
