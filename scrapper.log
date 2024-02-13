@@ -3,3 +3,14 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.151.100:5000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 15:59:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 15:59:50] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 15:59:50] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Rupesh Kumar', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Nice'}, {'Product': 'tv', 'Name': 'Vasanth  Gaming yt', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Worst'}, {'Product': 'tv', 'Name': 'Bapi Saha', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Very good product, picture quality awesome'}, {'Product': 'tv', 'Name': 'Jagajeevan Reddy', 'Rating': '1', 'CommentHead': 'Hated it!', 'Comment': 'Display picture is worst \U0001f62d'}, {'Product': 'tv', 'Name': 'vijay more', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': 'Product is ok \U0001f44d but installation and delivery process gives very much bad experience .'}, {'Product': 'tv', 'Name': 'DAITARI MAJHI', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'I Love this mi tv. All good no problem on this tv. \U0001f60d'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'Only 2 month use and black dott in screen very low quality'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Good \U0001f44d\U0001f44d\U0001f44d'}, {'Product': 'tv', 'Name': 'Nilesh Tayshete', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Everything is very nice..Do not blame tv software for slowness of apps rather upgrade ur internet speed.'}, {'Product': 'tv', 'Name': 'Tulika Biswas', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Value of money nice product picture quality is really good colour combination is outstanding sound quality is very good'}, {'Product': 'tv', 'Name': 'Tulika Biswas', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Value of money nice product picture quality is really good colour combination is outstanding sound quality is very good'}]
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 16:00:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 16:00:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2024 16:00:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
