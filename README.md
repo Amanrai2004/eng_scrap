@@ -1,5 +1,5 @@
 # scraper engine
-In this project we are fetch a comment, ratings, customer name and date, from flipkart web page by using flask 
+In this project we are fetch a comment, ratings, customer name and date, from flipkart web page by using beutifull soup
 
 ## Acknowledgements
 
